@@ -1,0 +1,23 @@
+  body{
+    background-color: #f2f4f6;
+
+  }
+  hr{
+    border-style: dotted none none;
+    border-color: #1ee3cf;
+    border-width: 5px;
+    height: 0;
+    width: 2%;
+  }
+h2{
+  color: #0d3f67;
+}
+.profile-picture{
+  border-radius: 100%
+}
+th{
+  color: #6b48ff;
+}
+.foot{
+  color: #009975;
+}
