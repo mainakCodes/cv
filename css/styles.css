@@ -16,8 +16,12 @@ h2{
   border-radius: 100%
 }
 th{
-  color: #6b48ff;
+  color: #009975;
 }
 .foot{
-  color: #009975;
+  color: blue;
+}
+.lasthr{
+  width: 100%;
+  border-top: inset;
 }
